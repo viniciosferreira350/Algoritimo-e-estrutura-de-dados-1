@@ -1,3 +1,6 @@
+// Matrícula: D31279
+// Nome: Vinicios Ferreira da Silva
+
 package conteudo_09.exercicio_02;
 
 public class Exercicio02 {
@@ -11,3 +14,15 @@ public class Exercicio02 {
         System.out.println("Valor da Série = " + serie);
     }
 }
+
+
+//aux * variação
+//alguma coisa elevada a aux
+// aux elevado há alguma potencia
+
+//somatorio dentro de if
+//impressão dentro e fora da estrutura de rep
+//joptionpane
+//series
+//entender o problema
+//
